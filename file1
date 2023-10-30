@@ -1,4 +1,7 @@
 This is the first test file
 This is the secound test file1
 This is sample file1
-This is sample file3
+<<<<<<< HEAD
+
+=======
+>>>>>>> 3c945b03e06288740194f46917687f256e264334
